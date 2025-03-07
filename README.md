@@ -1,1 +1,7 @@
-# yandex-practicum-data-scientist
+# Самостоятельные проекты курса «Специалист по Data Science»
+
+Самостоятельные проекты, выполненные в ходе прохождения курса «Специалист по Data Science» платформы [Яндекс Практикум](https://practicum.yandex.ru/).
+
+| Спринт | Проект | Теги |
+| --- | --- | --- |
+| 03. Базовый Python | [Музыка больших городов](./projects/03_basic-python/notebook.ipynb) | `pandas` |

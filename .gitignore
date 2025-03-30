@@ -1,2 +1,3 @@
 *.csv
 review.ipynb
+.ipynb_checkpoints

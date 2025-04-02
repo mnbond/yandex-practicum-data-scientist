@@ -35,7 +35,7 @@
   Теги: `python`, `pandas`, `matplotlib`, `seaborn`, `scipy.stats`, `t-тест`, `p-value`, `GridSearchCV`, `SelectKBest`, `make_scorer`, `LinearRegression`, `LogisticRegression`, `DecisionTreeClassifier`, `DecisionTreeRegressor`, `KNeighborsClassifier`, `SVC`, `перестановочная важность`, `значение Шепли`.
 
 - Спринт «Машинное обучение в бизнесе», проект «[Выбор локации для разработки скважин для добывающей компании](./12_ml_in_business/notebook.ipynb)».
-  Разработка модели регрессии, которая поможет определить регион, где добыча принесёт наибольшую прибыль. Анализ возможной прибыли и рисков добывающей компании техникой Bootstrap.
+  Разработка модели регрессии для определения регионов, где добыча принесёт наибольшую прибыль. Анализ возможной прибыли и рисков добывающей компании техникой Bootstrap.
   Теги: `python`, `pandas`, `matplotlib`, `seaborn`, `LinearRegression`, `bootstrap`.
 
 - Спринт «Базовый SQL», проект «[Запросы к базе данных](./13_basic_sql/notebook.ipynb)».

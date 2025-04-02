@@ -31,6 +31,9 @@
   Теги: `python`, `pandas`, `matplotlib`, `seaborn`, `GridSearchCV`, `LogisticRegression`, `KNeighborsClassifier`, `SVC`, `DecisionTreeClassifier`, `перестановочная важность`, `значение Шепли`.
 
 - Спринт «Сборный Проект — 2», проект «[ML-решения для HR-отдела компании](./11_aggregate_project_2/notebook.ipynb)».
+  Разработка моделей регрессии и классификации для HR-отдела компании «Работа с заботой»: предсказание уровня удовлетворённости сотрудников и предсказание внезапных увольнений работников компании.
+  Теги: `python`, `pandas`, `matplotlib`, `seaborn`, `scipy.stats`, `t-тест`, `p-value`, `GridSearchCV`, `SelectKBest`, `make_scorer`, `LinearRegression`, `LogisticRegression`, `DecisionTreeClassifier`, `DecisionTreeRegressor`, `KNeighborsClassifier`, `SVC`, `перестановочная важность`, `значение Шепли`.
+
 - Спринт «Машинное обучение в бизнесе», проект «[Выбор локации для разработки скважин для добывающей компании](./12_ml_in_business/notebook.ipynb)».
 - Спринт «Базовый SQL», проект «[Запросы к базе данных](./13_basic_sql/notebook.ipynb)».
 - Спринт «Численные методы», проект «[Определение стоимости автомобилей для сервиса объявлений](./16_numerical_methods/notebook.ipynb)».

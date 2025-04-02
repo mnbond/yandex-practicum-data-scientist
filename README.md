@@ -47,6 +47,9 @@
   Теги: `python`, `pandas`, `matplotlib`, `seaborn`, `GridSearchCV`, `LinearRegression`, `DecisionTreeRegressor`, `CatBoostRegressor`, `LGBMRegressor`, `градиентный бустинг`.
 
 - Спринт «Временные ряды», проект «[Прогнозирование заказов такси](./17_time_series/notebook.ipynb)».
+  Построение модели для предсказания количества заказов такси на следующий час, которая позволит компании «Чётенькое такси» привлекать больше водителей в период пиковой нагрузки.
+  Теги: `python`, `pandas`, `matplotlib`, `seaborn`, `statsmodels.tsa.seasonal`, `GridSearchCV`, `TimeSeriesSplit`, `SelectKBest`, `LinearRegression`, `KNeighborsRegressor`, `SVR`, `DecisionTreeRegressor`, `CatBoostRegressor`, `LGBMRegressor`, `перестановочная важность`, `градиентный бустинг`, `временной ряд`, `тренд`, `сезонность`.
+
 - Спринт «Машинное обучение для текстов», проект «[Классификация комментариев для интернет-магазина](./18_ml_for_texts/notebook.ipynb)».
 - Спринт «Компьютерное зрение», проект «[Определение возраста покупателей для сетевого супермаркета](./19_computer_vision/notebook.ipynb)».
 - Спринт «Выпускной проект», проект «[Прогнозирование оттока клиентов оператора связи](./22_senior_project/notebook.ipynb)».

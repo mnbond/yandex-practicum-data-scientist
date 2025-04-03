@@ -51,5 +51,8 @@
   Теги: `python`, `pandas`, `matplotlib`, `seaborn`, `statsmodels.tsa.seasonal`, `GridSearchCV`, `TimeSeriesSplit`, `SelectKBest`, `LinearRegression`, `KNeighborsRegressor`, `SVR`, `DecisionTreeRegressor`, `CatBoostRegressor`, `LGBMRegressor`, `перестановочная важность`, `градиентный бустинг`, `временной ряд`, `тренд`, `сезонность`.
 
 - Спринт «Машинное обучение для текстов», проект «[Классификация комментариев для интернет-магазина](./18_ml_for_texts/notebook.ipynb)».
+  Разработка модели для классификации комментариев пользователей интернет-магазина «Викишоп» на позитивные и негативные с использованием нескольких подходов: обучение моделей на векторизованных лемматизированных комментариях на основе частотности TF-IDF, а также на векторизованных комментариях с помощью предобученной языковой модели BERT.
+  Теги: `python`, `pandas`, `matplotlib`, `seaborn`, `torch`, `spacy`, `wordcloud`, `TfidfVectorizer`, `GridSearchCV`, `LogisticRegression`, `векторизация текстов`, `лемматизация текстов`, `TF-IDF`, `эмбеддинги`, `DeepPavlov`, `BERT`.
+
 - Спринт «Компьютерное зрение», проект «[Определение возраста покупателей для сетевого супермаркета](./19_computer_vision/notebook.ipynb)».
 - Спринт «Выпускной проект», проект «[Прогнозирование оттока клиентов оператора связи](./22_senior_project/notebook.ipynb)».
